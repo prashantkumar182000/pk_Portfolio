@@ -1,5 +1,5 @@
 # Portfolio Website : https://reliable-tanuki-620e41.netlify.app/
-![3D Portfolio](https://i.ibb.co/9ykhLtM/Thumbnail.png)
+
 
 ## Introduction
 The existence of React Native makes React one of the most valuable skills to have. 
